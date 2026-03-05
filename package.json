@@ -1,0 +1,18 @@
+{
+  "name": "midnight-hello",
+  "version": "1.0.0",
+  "description": "Minimal project using Midnight Network dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "compact-runtime": "^0.14.0",
+    "compactc": "^0.28.0",
+    "midnight.js": "^3.0.0",
+    "compact-js": "^2.4.0",
+    "wallet-sdk": "^1.0.0",
+    "dapp-connector-api": "^4.0.0",
+    "indexer": "^3.0.0"
+  }
+}
